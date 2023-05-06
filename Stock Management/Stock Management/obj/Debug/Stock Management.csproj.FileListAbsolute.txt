@@ -1,0 +1,48 @@
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.AssemblyReference.cache
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.SuggestedBindingRedirects.cache
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock_Management.Login.resources
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock_Management.Properties.Resources.resources
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock_Management.StockMain.resources
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.GenerateResource.cache
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.CoreCompileInputs.cache
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\bin\Debug\Stock Management.exe.config
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\bin\Debug\Stock Management.exe
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\bin\Debug\Stock Management.pdb
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock_Management.Products.resources
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock Management.exe
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock Management.pdb
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock_Management.Providers.resources
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock_Management.Customers.resources
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\Stock Management.exe.config
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\Stock Management.exe
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\Stock Management.pdb
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.AssemblyReference.cache
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.SuggestedBindingRedirects.cache
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock_Management.Customers.resources
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock_Management.Login.resources
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock_Management.Products.resources
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock_Management.Properties.Resources.resources
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock_Management.Providers.resources
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock_Management.StockMain.resources
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.GenerateResource.cache
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.CoreCompileInputs.cache
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock Management.exe
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock Management.pdb
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock_Management.BestSeller.resources
+C:\Users\pao36\Desktop\Stock-Management-App-Store-main(new)\Stock Management\Stock Management\bin\Debug\Stock Management.exe.config
+C:\Users\pao36\Desktop\Stock-Management-App-Store-main(new)\Stock Management\Stock Management\bin\Debug\Stock Management.exe
+C:\Users\pao36\Desktop\Stock-Management-App-Store-main(new)\Stock Management\Stock Management\bin\Debug\Stock Management.pdb
+C:\Users\pao36\Desktop\Stock-Management-App-Store-main(new)\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.AssemblyReference.cache
+C:\Users\pao36\Desktop\Stock-Management-App-Store-main(new)\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\pao36\Desktop\Stock-Management-App-Store-main(new)\Stock Management\Stock Management\obj\Debug\Stock_Management.BestSeller.resources
+C:\Users\pao36\Desktop\Stock-Management-App-Store-main(new)\Stock Management\Stock Management\obj\Debug\Stock_Management.Customers.resources
+C:\Users\pao36\Desktop\Stock-Management-App-Store-main(new)\Stock Management\Stock Management\obj\Debug\Stock_Management.Login.resources
+C:\Users\pao36\Desktop\Stock-Management-App-Store-main(new)\Stock Management\Stock Management\obj\Debug\Stock_Management.Products.resources
+C:\Users\pao36\Desktop\Stock-Management-App-Store-main(new)\Stock Management\Stock Management\obj\Debug\Stock_Management.Properties.Resources.resources
+C:\Users\pao36\Desktop\Stock-Management-App-Store-main(new)\Stock Management\Stock Management\obj\Debug\Stock_Management.Providers.resources
+C:\Users\pao36\Desktop\Stock-Management-App-Store-main(new)\Stock Management\Stock Management\obj\Debug\Stock_Management.StockMain.resources
+C:\Users\pao36\Desktop\Stock-Management-App-Store-main(new)\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.GenerateResource.cache
+C:\Users\pao36\Desktop\Stock-Management-App-Store-main(new)\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.CoreCompileInputs.cache
+C:\Users\pao36\Desktop\Stock-Management-App-Store-main(new)\Stock Management\Stock Management\obj\Debug\Stock Management.exe
+C:\Users\pao36\Desktop\Stock-Management-App-Store-main(new)\Stock Management\Stock Management\obj\Debug\Stock Management.pdb
+C:\Users\pao36\Desktop\Stock-Management-App-Store-main(new)\Stock Management\Stock Management\obj\Debug\Stock_Management.Eform.resources
